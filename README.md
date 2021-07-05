@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./logo_20210703.png" />
+  <img src="./logo_risqml.png" />
 </p>
 
 <p align="center">
