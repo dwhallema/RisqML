@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="./logo_20210703.png" />
+</p>
+
+<p align="center">
+  © 2021 Dennis Hallema
+</p>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/dwhallema/RisqML/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
